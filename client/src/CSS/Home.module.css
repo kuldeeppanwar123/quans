@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.maincontainer{
+    margin: 100px 50px;
+
+}
+
+.first,.second{
+    height: 450px;
+    width: 400px;
+    margin: 20px 40px;
+    border-radius: 12px;
+}
+
+.quans{
+   margin-top: 50px;
+   width: 90%;
+   margin-left: 50px;
+}

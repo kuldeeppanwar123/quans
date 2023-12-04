@@ -1,0 +1,24 @@
+.container{
+    color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.firstcontainer,.secondcontainer{
+    display: flex;
+    justify-content: space-around;
+    column-gap: 100px;
+}
+
+.first,.second{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.second{
+    height: 200px;
+}
